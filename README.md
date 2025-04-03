@@ -1,5 +1,5 @@
 # Synthetic-RNA-Seq-Raw-Counts-Generator
-Generates synthetic Bulk RNA-Seq raw count data in a easy to use Google Colab Sheet, accelerated using vectorization 
+Generates synthetic Bulk RNA-Seq raw count data in a easy to use Google Colab Sheet, accelerated using **vectorization** & **CUDA Acceleration**
 
 Synthetic Bulk RNA-Seq Dataset Generation
 Script to generate synthetic bulk RNA-seq count data with batch effects for batch correction evaluation. An optimized version that vectorizes the count generation to improve performance.
