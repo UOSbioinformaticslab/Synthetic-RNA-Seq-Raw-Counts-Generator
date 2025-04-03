@@ -4,6 +4,8 @@ Generates synthetic Bulk RNA-Seq raw count data in a easy to use Google Colab Sh
 Synthetic Bulk RNA-Seq Dataset Generation
 Script to generate synthetic bulk RNA-seq count data with batch effects for batch correction evaluation. An optimized version that vectorizes the count generation to improve performance.
 
+This workflow is near instantaneous at generating data.
+
 ## Parameters:
 - n_genes (int): Number of genes to simulate.
 - n_samples (int): Total number of samples (should be divisible by n_batches).
